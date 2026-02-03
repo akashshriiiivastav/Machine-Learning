@@ -1,1 +1,3 @@
 iloc = Integer Location - To index rows and columns
+SimpleImputer = SimpleImputer is a class in scikit-learn (sklearn) used to fill missing values in your dataset.
+Onehotencoder = OneHotEncoder converts categorical (text) values into numeric columns.
