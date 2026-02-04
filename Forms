@@ -7,4 +7,14 @@ X_test	Inputs used to test
 y_train	Correct outputs for training
 y_test	Correct outputs for testing
 
+simple linear regression
+ŷ = b₀ + b₁X
+Breakdown:
+ŷ = predicted value (e.g., potato yield)
+b₀ = intercept → value when X = 0
+(If no fertilizer is used, how many tonnes of potatoes will you still get?)
+b₁ = slope → how much Y increases when X increases by 1 unit
+(If we add 1 kg of fertilizer, how many more tonnes of potatoes will grow?)
+X = input variable (amount of fertilizer)
+
 
